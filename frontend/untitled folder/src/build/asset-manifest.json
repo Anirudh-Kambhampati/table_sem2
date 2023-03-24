@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdbf0a56.css",
+    "main.js": "/static/js/main.13fdb218.js",
+    "static/js/496.27e8dc92.chunk.js": "/static/js/496.27e8dc92.chunk.js",
+    "static/media/MicrosoftTeams-image (3).png": "/static/media/MicrosoftTeams-image (3).f7aad94fc0d89ce98f1e.png",
+    "static/media/MicrosoftTeams-image (1).png": "/static/media/MicrosoftTeams-image (1).09de5825f52e9711b4bc.png",
+    "static/media/MicrosoftTeams-image (2).png": "/static/media/MicrosoftTeams-image (2).90ccd1a9c9b9fb3c1e5f.png",
+    "static/media/MicrosoftTeams-image (4).png": "/static/media/MicrosoftTeams-image (4).e564f8c0f360dc2514f9.png",
+    "static/media/logoAI.png": "/static/media/logoAI.2685e441de72989d7b03.png",
+    "index.html": "/index.html",
+    "main.cdbf0a56.css.map": "/static/css/main.cdbf0a56.css.map",
+    "main.13fdb218.js.map": "/static/js/main.13fdb218.js.map",
+    "496.27e8dc92.chunk.js.map": "/static/js/496.27e8dc92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdbf0a56.css",
+    "static/js/main.13fdb218.js"
+  ]
+}
